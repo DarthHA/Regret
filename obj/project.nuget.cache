@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zffspHMu5WNg4k6mKeh0h21NhxwQmJhPBme1qAaXSGK5BZOZUvF0hU3xnhns7YoFsCojHHp+T2hlNp48RiyFQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Regret\\Regret.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
